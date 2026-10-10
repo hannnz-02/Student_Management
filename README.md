@@ -12,13 +12,23 @@ Video dokumentasi aplikasi:
 
 [Student Management System — Demo Aplikasi](https://github.com/user-attachments/assets/7bfd430c-3e09-4cfc-b553-a4046f949944)
 
+## Dokumentasi Tampilan Aplikasi
 
-**Form**
-<img width="548" height="414" alt="image" src="https://github.com/user-attachments/assets/30cd4797-9d4b-49fe-a1c7-2371774b7d7f" />
+### 1. Form Input Mahasiswa
 
-**Berhasil Input**
-<img width="548" height="409" alt="image" src="https://github.com/user-attachments/assets/e446c8fa-249d-458f-a3a0-925d25cbc21b" />
+Tampilan awal aplikasi untuk memasukkan data mahasiswa, meliputi nama, NRP, jurusan, dan email.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/30cd4797-9d4b-49fe-a1c7-2371774b7d7f" alt="Form Input Mahasiswa" width="650"/>
+</p>
+
+### 2. Berhasil Menambahkan Data
+
+Tampilan aplikasi setelah data mahasiswa berhasil ditambahkan dan ditampilkan pada tabel.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e446c8fa-249d-458f-a3a0-925d25cbc21b" alt="Data Mahasiswa Berhasil Ditambahkan" width="650"/>
+</p>
 
 ---
 
