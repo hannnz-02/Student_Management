@@ -7,9 +7,11 @@
 ---
 
 ## Dokumentasi Tugas
-<video src="https://github.com/user-attachments/assets/12345678-abcd-efgh-9876-123456789abc" width="100%" controls>
-  Browser kamu tidak mendukung pemutaran video ini.
-</video>
+
+
+https://github.com/user-attachments/assets/96e0e5d2-4d49-4c72-a691-9e3f8e4374bd
+
+
 ---
 
 
