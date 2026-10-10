@@ -7,8 +7,9 @@
 ---
 
 ## Dokumentasi Tugas
-(https://drive.google.com/file/d/1hIXmJveQ_84cdWkp9OkpLE7M0OjEA8uh/view?usp=sharing)
-
+<video src="https://github.com/user-attachments/assets/12345678-abcd-efgh-9876-123456789abc" width="100%" controls>
+  Browser kamu tidak mendukung pemutaran video ini.
+</video>
 ---
 
 
